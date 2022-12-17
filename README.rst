@@ -1,3 +1,7 @@
+> **Warning**
+
+**I've stopped maintaining this fork !**
+
 pyeasyga
 ========
 
